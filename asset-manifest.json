@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio_website/static/css/main.809b7200.css",
+    "main.js": "/portfolio_website/static/js/main.5d1be6f3.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio_website/static/js/787.7da95b79.chunk.js",
+    "static/media/MarcellusSC-Regular.ttf": "/portfolio_website/static/media/MarcellusSC-Regular.d36eafd3ccb97b75de17.ttf",
+    "index.html": "/portfolio_website/index.html",
+    "main.809b7200.css.map": "/portfolio_website/static/css/main.809b7200.css.map",
+    "main.5d1be6f3.js.map": "/portfolio_website/static/js/main.5d1be6f3.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio_website/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.809b7200.css",
+    "static/js/main.5d1be6f3.js"
+  ]
+}
